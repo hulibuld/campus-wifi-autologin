@@ -1,0 +1,25 @@
+logs/
+capture/
+*.log
+*.json
+*.tar.gz
+__pycache__/
+.DS_Store
+
+# 由 DSH 上传流程补充
+Thumbs.db
+desktop.ini
+node_modules/
+*.pyc
+.venv/
+.env
+.env.local
+.env.*.local
+# 交接文档：只留本地，不上传
+交接文档.md
+交接文档.txt
+交接文档-*.md
+交接文档_*.md
+交接文档 *.md
+交接文档*.bak
+HANDOFF.local.md
